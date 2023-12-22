@@ -15,7 +15,6 @@ def print_tic_tac_toe(values):
     print("\t     |     |")
     print("\n")
  
- 
 # Function to print the score-board
 def print_scoreboard(score_board):
     print("\t--------------------------------")
